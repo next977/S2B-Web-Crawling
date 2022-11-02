@@ -1,5 +1,5 @@
 # S2B-Web-Crawling
-STARmed] 기술 경력서 1 - S2B Web Crawling
+STARmed] S2B Web Crawling
 
 - **개발 필요성 :**
 
